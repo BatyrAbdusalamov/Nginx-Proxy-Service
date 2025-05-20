@@ -1,4 +1,4 @@
-const ServicesUrl= [ "http://localhost:8000/auth/swagger/api/json" ];
+const ServicesUrl= [ "http://localhost:8000/auth" ];
 
 this.window.onload = function() {
     // Build a system
