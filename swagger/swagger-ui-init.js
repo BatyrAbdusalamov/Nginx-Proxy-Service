@@ -1,4 +1,4 @@
-const ServicesUrl= [ "http://localhost:8000/auth" ];
+const ServicesUrl= [ "http://localhost:8000/auth", "http://localhost:8000/app"  ];
 
 this.window.onload = function() {
     // Build a system
